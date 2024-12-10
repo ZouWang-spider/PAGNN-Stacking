@@ -2,7 +2,7 @@
 
 A hybrid model for text classification using part-of-speech features （PAGNN-Stacking） accepted by Journal of Intelligent & Fuzzy Systems (2023)
 
-<img src="image/PAGNN-Stacking.png" alt="PAGNN-Stacking model">
+<img src="https://github.com/ZouWang-spider/PAGNN-Stacking/blob/master/image/PAGNN-Stacking.png" alt="PAGNN-Stacking model">
 
 # PAGNN-Stacking
 
